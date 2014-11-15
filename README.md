@@ -50,9 +50,3 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
   "color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme"
 }
 ```
-
-***
-
-### Thanks
-
-The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts).
