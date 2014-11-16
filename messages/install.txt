@@ -1,12 +1,13 @@
 Thanks for installing Fox!
 
+Fox is a custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edition and [@kkga](https://github.com/kkga)'s [Spacegray](https://github.com/kkga/spacegray).
+
 How to activate
 ===============
 
 Activate the UI theme and color scheme by modifying your user preferences file, which you can find using the menu item `Sublime Text -> Preferences -> Settings - User` (⌘+, on Mac).
 
 *Note: Don't forget to restart Sublime Text after activating the theme.*
-
 
 Fox
 ---------
