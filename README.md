@@ -57,4 +57,5 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 
 ### Thanks
 
-- Icons compiled by [@kurtextrem](https://github.com/kurtextrem) from [Seti_ST3](https://github.com/ctf0/Seti_ST3), [Soda Theme](https://github.com/pryley/soda-theme), [Aprosopo](https://github.com/facelessuser/Aprosopo).
+- Layout, structure, and base icons by [@kkga](https://github.com/kkga/)'s [Spacegray](https://github.com/kkga/spacegray)
+- File type icons compiled by [@kurtextrem](https://github.com/kurtextrem) from [Seti_ST3](https://github.com/ctf0/Seti_ST3), [Soda Theme](https://github.com/pryley/soda-theme), [Aprosopo](https://github.com/facelessuser/Aprosopo)
