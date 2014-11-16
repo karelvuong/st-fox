@@ -10,7 +10,7 @@ A custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edi
 
 Default flavor based on Firefox Developer Edition - Dark.
 
-![image](screenshots/fox-dark.png)
+![image](screenshots/fox-dark.jpg)
 
 *The font used in the screenshots is __Monaco__.*
 
@@ -30,7 +30,7 @@ The easiest way to install is using [Sublime Package Control](https://sublime.wb
 
 You can also install the theme manually:
 
-1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
+1. [Download the .zip](https://github.com/karelvuong/fox/archive/master.zip)
 2. Unzip and rename the folder to `Theme - Fox`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
