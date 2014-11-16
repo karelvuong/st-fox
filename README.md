@@ -1,30 +1,18 @@
-# Spacegray
+# Fox
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+A custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edition and [@kkga](https://github.com/kkga)'s [Spacegray](https://github.com/kkga/spacegray).
 
 ***
 
 ### Themes
 
-#### Spacegray
+#### Fox
 
-Default flavor based on Base16 Ocean Dark color scheme.
+Default flavor based on Firefox Developer Edition - Dark.
 
-![image](Screenshots/spacegray.png)
+![image](screenshots/fox-dark.png)
 
-#### Spacegray Light
-
-Light variation based on Base16 Ocean Light color scheme.
-
-![image](Screenshots/spacegray-light.png)
-
-#### Spacegray Eighties
-
-A variation based on Base16 Eighties Dark color scheme.
-
-![image](Screenshots/spacegray-eighties.png)
-
-*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
+*The font used in the screenshots is __Monaco__.*
 
 ***
 
@@ -32,18 +20,18 @@ A variation based on Base16 Eighties Dark color scheme.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Spacegray is listed as `Theme - Spacegray`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Fox is listed as `Theme - Fox`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Spacegray` and hit <kbd>Enter</kbd>
+3. Find `Theme - Fox` and hit <kbd>Enter</kbd>
 
 #### Manual
 
 You can also install the theme manually:
 
 1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
-2. Unzip and rename the folder to `Theme - Spacegray`
+2. Unzip and rename the folder to `Theme - Fox`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
 ***
@@ -56,112 +44,17 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 
 ***Note: Don't forget to restart Sublime Text after activating the theme.***
 
-#### Settings for Spacegray
+#### Settings for Fox
 
 ```json
 {
-  "theme": "Spacegray.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme"
+  "theme": "Fox.sublime-theme",
+  "color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme"
 }
-```
-
-#### Settings for Spacegray Light
-
-```json
-{
-  "theme": "Spacegray Light.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-ocean.light.tmTheme"
-}
-```
-
-#### Settings for Spacegray Eighties
-
-```json
-{
-  "theme": "Spacegray Eighties.sublime-theme",
-  "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
-}
-```
-
-***
-
-### Settings
-
-#### Tab labels font size
-
-Copy and paste one of four options in your user preferences file:
-
-```json
-  "spacegray_tabs_font_small": true
-```
-```json
-  "spacegray_tabs_font_normal": true
-```
-```json
-  "spacegray_tabs_font_large": true
-```
-```json
-  "spacegray_tabs_font_xlarge": true
-```
-
-#### Tabs size
-
-Tabs height:
-
-```json
-  "spacegray_tabs_small": true
-```
-```json
-  "spacegray_tabs_normal": true
-```
-```json
-  "spacegray_tabs_large": true
-```
-```json
-  "spacegray_tabs_xlarge": true
-```
-
-Tabs width: 
-
-```json
-  "spacegray_tabs_auto_width": true
-```
-
-#### Sidebar labels font size
-
-```json
-  "spacegray_sidebar_font_small": true
-```
-```json
-  "spacegray_sidebar_font_normal": true
-```
-```json
-  "spacegray_sidebar_font_large": true
-```
-```json
-  "spacegray_sidebar_font_xlarge": true
-```
-
-#### Sidebar tree rows height
-
-```json
-  "spacegray_sidebar_tree_xsmall": true
-```
-```json
-  "spacegray_sidebar_tree_small": true
-```
-```json
-  "spacegray_sidebar_tree_normal": true
-```
-```json
-  "spacegray_sidebar_tree_large": true
-```
-```json
-  "spacegray_sidebar_tree_xlarge": true
 ```
 
 ***
 
 ### Thanks
 
-The Spacegray Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts).
+- Icons compiled by [@kurtextrem](https://github.com/kurtextrem) from [Seti_ST3](https://github.com/ctf0/Seti_ST3), [Soda Theme](https://github.com/pryley/soda-theme), [Aprosopo](https://github.com/facelessuser/Aprosopo).
