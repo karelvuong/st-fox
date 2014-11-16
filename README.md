@@ -1,6 +1,6 @@
 # Fox
 
-A custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edition and @kkga's Spacegray.
+A custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edition and (@kkga)[https://github.com/kkga]'s Spacegray.
 
 ***
 
