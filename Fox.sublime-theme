@@ -69,7 +69,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Fox/Fox/close.png",
         "layer0.opacity": 0,
         "layer0.tint": [101, 115, 126] // 03
     },
@@ -81,7 +81,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Fox/Fox/close.png",
         "layer0.opacity": 1
     },
     {
@@ -100,7 +100,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Theme - Fox/Fox/circle.png",
         "layer0.tint": [235, 203, 139], // 0A
         "layer0.opacity": 1
     },
@@ -114,7 +114,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Fox/Fox/close.png",
         "attributes": ["hover"],
         "layer0.opacity": 1,
         "layer0.tint": [191, 97, 106] // 08
@@ -201,7 +201,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Theme - Fox/Fox/folder-closed.png",
         "layer0.tint": [167, 173, 186], // 04
         "layer0.opacity": 0.5,
         "layer0.inner_margin": 0,
@@ -215,7 +215,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Fox/Fox/folder-open.png"
     },
     {
         "class": "fold_button_control",
@@ -567,7 +567,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Fox/Fox/close.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [101, 115, 126], // 03
@@ -587,7 +587,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png",
+        "layer0.texture": "Theme - Fox/Fox/circle.png",
         "layer0.opacity": 1,
         "layer0.tint": [235, 203, 139] // 0A
     },
@@ -595,7 +595,7 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/circle.png"
+        "layer0.texture": "Theme - Fox/Fox/circle.png"
     },
     // Sidebar file close hover
     {
@@ -607,7 +607,7 @@
         "class": "close_button",
         "attributes": ["dirty", "hover"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/close.png",
+        "layer0.texture": "Theme - Fox/Fox/close.png",
         "layer0.tint": [191, 97, 106] // 08
     },
 
@@ -619,7 +619,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [8,8],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-closed.png",
+        "layer0.texture": "Theme - Fox/Fox/folder-closed.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "layer0.inner_margin": 0
@@ -637,7 +637,7 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Fox/Fox/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
@@ -648,7 +648,15 @@
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Spacegray/Spacegray/folder-open.png"
+        "layer0.texture": "Theme - Fox/Fox/folder-open.png"
+    },
+    // Sidebar file icons
+    {
+        "class": "icon_file_type",
+        // layer0.texture is filled in by code with the relevant icon name
+        "layer0.opacity": 1.0,
+        "layer0.tint": [89, 103, 115],
+        "content_margin": [8, 8]
     },
 
 //
@@ -874,7 +882,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Spacegray/Spacegray/regex.png",
+        "layer0.texture": "Theme - Fox/Fox/regex.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -888,7 +896,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/casesens.png",
+        "layer0.texture": "Theme - Fox/Fox/casesens.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -901,7 +909,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wholeword.png",
+        "layer0.texture": "Theme - Fox/Fox/wholeword.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -919,7 +927,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Spacegray/Spacegray/context.png",
+        "layer0.texture": "Theme - Fox/Fox/context.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -932,7 +940,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Spacegray/Spacegray/buffer.png",
+        "layer0.texture": "Theme - Fox/Fox/buffer.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -949,7 +957,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Spacegray/Spacegray/reverse.png",
+        "layer0.texture": "Theme - Fox/Fox/reverse.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -962,7 +970,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Spacegray/Spacegray/wrap.png",
+        "layer0.texture": "Theme - Fox/Fox/wrap.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -975,7 +983,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Spacegray/Spacegray/selection.png",
+        "layer0.texture": "Theme - Fox/Fox/selection.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -993,7 +1001,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Spacegray/Spacegray/lock.png",
+        "layer0.texture": "Theme - Fox/Fox/lock.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1011,7 +1019,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Spacegray/Spacegray/highlight.png",
+        "layer0.texture": "Theme - Fox/Fox/highlight.png",
         "layer0.tint": [79, 91, 102], // 02
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1064,14 +1072,8 @@
     },
 
 //
-// FIX ICON BUG BY REMOVING THEM
+// REMOVE FOLDER ICONS
 //
-
-    {
-        "class": "icon_file_type",
-        "content_margin": [0,0],
-        "layer0.opacity": 0.0
-    },
     {
         "class": "icon_folder",
         "layer0.texture": "",
