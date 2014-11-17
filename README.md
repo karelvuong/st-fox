@@ -10,7 +10,9 @@ A custom UI theme for Sublime Text 2/3. Based on Mozilla's Firefox Developer Edi
 
 Default flavor based on Firefox Developer Edition - Dark.
 
-![image](screenshots/fox-dark.jpg)
+![image](screenshots/fox.dark-html.jpg)
+![image](screenshots/fox.dark-css.jpg)
+![image](screenshots/fox.dark-js.jpg)
 
 *The font used in the screenshots is __Monaco__.*
 
