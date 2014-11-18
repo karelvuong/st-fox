@@ -155,17 +155,17 @@
     {
         "class": "tab_label",
         "fade": true,
-        "fg": [101, 115, 127] // 03
+        "fg": [182, 186, 191] // 03
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["hover"]}],
-        "fg": [192, 197, 206] // 05
+        "fg": [182, 186, 191] // 03
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control","attributes": ["selected"]}],
-        "fg": [223, 225, 232] // 06
+        "fg": [255, 255, 255] // 06
     },
     {
         "class": "tab_label",
