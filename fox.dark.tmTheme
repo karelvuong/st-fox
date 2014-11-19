@@ -37,9 +37,9 @@
 				<key>invisibles</key>
 				<string>#5C6773</string>
 				<key>lineHighlight</key>
-				<string>#343d46</string>
+				<string>#1D4F73</string>
 				<key>selection</key>
-				<string>#4f5b66</string>
+				<string>#b9d7fd</string>
 			</dict>
 		</dict>
 		<dict>
@@ -563,17 +563,6 @@
 			<string>GitGutter ignored</string>
 			<key>scope</key>
 			<string>markup.ignored.git_gutter</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#565656</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GitGutter untracked</string>
-			<key>scope</key>
-			<string>markup.untracked.git_gutter</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
