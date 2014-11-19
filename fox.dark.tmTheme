@@ -13,11 +13,11 @@
 	<key>gutterSettings</key>
 	<dict>
 		<key>background</key>
-		<string>#343d46</string>
+		<string>#181D20</string>
 		<key>divider</key>
 		<string>#343d46</string>
 		<key>foreground</key>
-		<string>#5C6773</string>
+		<string>#5F7387</string>
 		<key>selectionBackground</key>
 		<string>#4f5b66</string>
 		<key>selectionForeground</key>
@@ -28,19 +28,36 @@
 		<dict>
 			<key>settings</key>
 			<dict>
+				<!-- Gutter background -->
 				<key>background</key>
-				<string>#14171A</string>
+				<string>#181D20</string>
 				<key>caret</key>
 				<string>#A9BACB</string>
+				<!-- Gutter text color -->
 				<key>foreground</key>
-				<string>#A9BACB</string>
+				<string>#5F7387</string>
 				<key>invisibles</key>
 				<string>#5C6773</string>
+				<!-- Gutter line highlight -->
 				<key>lineHighlight</key>
-				<string>#1D4F73</string>
+				<string>#2D333C</string>
 				<key>selection</key>
 				<string>#b9d7fd</string>
 			</dict>
+		</dict>
+		<!-- Code editor background -->
+		<dict>
+		  <key>name</key>
+		  <string>Source base background</string>
+		  <key>scope</key>
+		  <string>text, source</string>
+		  <key>settings</key>
+		  <dict>
+			  <key>background</key>
+			  <string>#14171A</string>
+				<key>foreground</key>
+				<string>#A9BACB</string>
+		  </dict>
 		</dict>
 		<dict>
 			<key>name</key>
