@@ -50,7 +50,7 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 
 ```json
 {
-  "theme": "Fox.sublime-theme",
+  "theme": "fox.dark.sublime-theme",
   "color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme"
 }
 ```
