@@ -35,7 +35,7 @@
 				<string>#A9BACB</string>
 				<!-- Gutter text color -->
 				<key>foreground</key>
-				<string>#5F7381</string>
+				<string>#A9BACB</string>
 				<key>invisibles</key>
 				<string>#5C6773</string>
 				<!-- Gutter line highlight -->
@@ -44,22 +44,7 @@
 				<key>selection</key>
 				<string>#b9d7fd</string>
 			</dict>
-		</dict>
-		<!-- Code editor background -->
-		<dict>
-		  <key>name</key>
-		  <string>Source base background</string>
-		  <key>scope</key>
-		  <string>text, source</string>
-		  <key>settings</key>
-		  <dict>
-			  <key>background</key>
-			  <string>#14171A</string>
-				<key>foreground</key>
-				<string>#A9BACB</string>
-		  </dict>
-		</dict>
-		<dict>
+		</dict>		<dict>
 			<key>name</key>
 			<string>Text</string>
 			<key>scope</key>
