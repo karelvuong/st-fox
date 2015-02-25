@@ -5,7 +5,7 @@
 	<key>author</key>
 	<string>Karel Vuong</string>
 	<key>name</key>
-	<string>Karel Fox - Dark</string>
+	<string>Fox - Dark</string>
 	<key>semanticClass</key>
 	<string>karel.fox.dark</string>
 	<key>colorSpaceName</key>
@@ -45,7 +45,8 @@
 				<key>selection</key>
 				<string>#b9d7fd</string>
 			</dict>
-		</dict>		<dict>
+		</dict>
+		<dict>
 			<key>name</key>
 			<string>Text</string>
 			<key>scope</key>
