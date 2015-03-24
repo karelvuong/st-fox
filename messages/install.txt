@@ -19,7 +19,7 @@ Default flavor based on Base16 Ocean Dark color scheme.
 *Example settings*
 
     {
-      "theme": "fox.dark.sublime-theme",
+      "theme": "Fox.sublime-theme",
       "color_scheme": "Packages/Theme - Fox/fox.dark.tmTheme"
     }
 
