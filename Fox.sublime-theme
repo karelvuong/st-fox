@@ -705,10 +705,20 @@
     // Text input field item
     {
         "class": "text_line_control",
-        // "layer0.texture": "",
-        "layer0.tint": [37, 44, 51], // -01
+        "layer0.texture": "",
+        "layer0.tint": [37, 44, 51],
+        "layer0.inner_margin": [4, 5, 4, 3],
         "layer0.opacity": 1,
-        "content_margin": [0, 8]
+        "content_margin": [8, 8],
+        "layer1.texture": "",
+        "layer1.tint": [27, 30, 34], // -00
+        "layer1.inner_margin": [0, 0, 0, 0],
+        "layer1.opacity": 1,
+        "layer2.texture": "",
+        "layer2.tint": [22, 24, 28], // -00
+        "layer2.draw_center": false,
+        "layer2.inner_margin": [1, 1, 1, 1],
+        "layer2.opacity": 1
     },
 
 //
