@@ -42,6 +42,8 @@
 				<!-- Gutter line highlight -->
 				<key>lineHighlight</key>
 				<string>#2D333C</string>
+				<key>selectionForeground</key>
+				<string>#181D20</string>
 				<key>selection</key>
 				<string>#b9d7fd</string>
 			</dict>

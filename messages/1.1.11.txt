@@ -1,12 +1,16 @@
 # New in Fox 1.1.11
 
-Fix installation message:
+- Added more icons, samples, and screenshots
+- Reorganized preferences
+- Vertically centered input text
+- Adjusted text color on highlight/selection
+- Fixed installation message:
 
-```
-{
-  "theme": "Fox.sublime-theme"
-}
-```
+  ```
+  {
+    "theme": "Fox.sublime-theme"
+  }
+  ```
 
 *If you have any suggestions for improvements and fixes, please feel free to add issues at [GitHub](http://github.com/karelvuong/fox/issues).*
 
