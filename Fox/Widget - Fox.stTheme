@@ -27,6 +27,71 @@
 				<string>#4f5b66</string>
 			</dict>
 		</dict>
+
+		<!-- Regex Colors -->
+		<dict>
+			<key>scope</key>
+			<string>constant</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3489B2</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>keyword</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A673BF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>constant.character.escape</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B26B47</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>constant.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A18650</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>keyword.control.anchors</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A18650</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>keyword.operator.quantifier</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#5C9966</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>keyword.control.character-class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#3489B2</string>
+			</dict>
+		</dict>
 	</array>
 </dict>
 </plist>
